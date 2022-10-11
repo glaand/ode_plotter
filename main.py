@@ -1,5 +1,7 @@
 import streamlit as st
 
+st.title("Glaand's ODE Plotter")
+
 # Python initialisieren:
 import matplotlib.pyplot as pl;
 import numpy as np;
