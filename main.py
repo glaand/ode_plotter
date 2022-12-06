@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Drin's ODE Plotter")
+st.title("Glaand's ODE Plotter")
 
 # Python initialisieren:
 import matplotlib.pyplot as pl;
